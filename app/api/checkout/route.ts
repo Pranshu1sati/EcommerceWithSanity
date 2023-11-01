@@ -4,7 +4,7 @@ import { validateCartItems } from "use-shopping-cart/utilities"
 
 import { inventory } from "@/config/inventory"
 import { stripe } from "@/lib/stripe"
-import { Cancel } from "@mui/icons-material"
+
 // import { CartItems } from "@/components/cart-items"
 
 export async function POST(request: Request) {
