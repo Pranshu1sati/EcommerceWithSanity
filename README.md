@@ -1,3 +1,3 @@
 ## E-Commerce App
 
-- [Project Link](https://bit.ly/fs-ecommerce)
+- [Project Link](https://ecommerce-with-sanity-nine.vercel.app/)
